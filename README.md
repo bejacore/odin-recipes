@@ -1,0 +1,3 @@
+# Odin Recipes Project
+
+This project is about making a simple recipe webpage where I can show what I've learned about html tags, links and images, also to get used to the terminal, making new folders and files and creating a simple folder tree structure for this webpage, on the other hand I could practice the git basic workflow adding files and folders to the staging area and committing the changes I did throughout this project.
